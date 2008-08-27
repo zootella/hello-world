@@ -1,0 +1,11 @@
+here is another new file
+saved in notepad
+it has windows line breaks also
+
+there are some all in a row, for instance
+
+in addition to this new file
+you will change Main.java
+and you will delete Snippet.java
+
+odd, you thought you just did that

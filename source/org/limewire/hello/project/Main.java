@@ -3,6 +3,7 @@ package org.limewire.hello.project;
 import javax.swing.SwingUtilities;
 
 // Added for example
+// Added for second example
 
 /** The program's Main class, containing its main() method. */
 public class Main {
